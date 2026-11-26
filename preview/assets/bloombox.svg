@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="175 162 888 888">
+<title>BloomBox mascot — default appearance</title>
+<desc>Documentation preview composed from the official AppIcon.icon vector layers.</desc>
+<defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c67bf6"/><stop offset="1" stop-color="#520be9"/></linearGradient></defs>
+<rect x="175" y="162" width="888" height="888" rx="175" fill="url(#background)"/>
+<defs><linearGradient id="bloom0" x1="0.1" y1="0" x2="0.8" y2="1"><stop stop-color="#c6f645"/><stop offset="1" stop-color="#429f20"/></linearGradient></defs><path fill="url(#bloom0)" d="M609 485 C544 508 483 511 449 452 C429 415 431 370 444 342 Q448 335 459 336 C534 330 597 382 607 443 Q612 465 609 485Z"/>
+<defs><linearGradient id="bloom1" x1="0.18" y1="0" x2="0.95" y2="0.95"><stop stop-color="#b9f34e"/><stop offset="0.6" stop-color="#77bf31"/><stop offset="1" stop-color="#51a154"/></linearGradient></defs><path fill="url(#bloom1)" d="M590 464 C706 460 808 515 863 605 C896 660 911 736 892 792 C876 850 843 881 772 894 C714 904 612 905 545 898 C412 889 326 822 325 718 C324 611 429 470 590 464Z"/>
+<defs><linearGradient id="bloom2" x1="0.25" y1="0" x2="0.65" y2="1"><stop stop-color="#ffffff"/><stop offset="0.65" stop-color="#f7f3fc"/><stop offset="1" stop-color="#e3d4f9"/></linearGradient></defs><path fill="url(#bloom2)" d="M590 464 C666 463 721 484 753 519 C794 563 790 635 770 704 C741 803 665 879 545 898 C420 898 326 832 325 721 C322 611 432 470 590 464Z"/>
+<defs><linearGradient id="bloom3" x1="0.2" y1="0" x2="0.85" y2="1"><stop stop-color="#d2fa54"/><stop offset="0.48" stop-color="#91d92a"/><stop offset="1" stop-color="#4ba51e"/></linearGradient></defs><path fill="url(#bloom3)" d="M655 492 C659 421 710 359 775 337 C810 325 850 322 871 330 Q878 332 877 345 C880 426 825 485 764 501 C726 512 694 506 662 502 Q655 501 655 492Z"/><path fill="#429f23" opacity=".22" d="M659 497 C717 438 799 384 875 358 C868 429 824 483 764 501 C722 512 684 505 659 497Z"/>
+<g fill="#15151e"><ellipse cx="477" cy="671.5" rx="32" ry="56" transform="rotate(11 477 671.5)"/><ellipse cx="586" cy="678" rx="32.5" ry="57" transform="rotate(11 586 678)"/></g>
+</svg>
