@@ -1,0 +1,2 @@
+# Animated Installer — experimental branch
+The first screen and app selector are redesigned with the original vector artwork from BloomBox df150bc and MediaBloom aebc510. Only the selector's eye groups are extended with alternate expressions; no new mascot design. Original installation commands, allowlist, release lookup and tutorials are retained. The design lab uses separate local storage and does not publish to the stable Pages branch. No automatic installation progress is claimed. The third and fourth screens are not redesigned yet.
