@@ -69,6 +69,12 @@ Open the [official installer](https://adrifog.github.io/Bloombox-iOS-Installer/)
 
 Keep LocalDevVPN disconnected until requested by siboot. Review the terminal command and press Enter yourself. If the link opens only the Open Minis home screen, use the manual copy method. Enter your Apple Account and verification code only in the local assistant. Progress is manually confirmed, not detected by Safari. Free signatures normally expire after seven days; do not delete a working installation to test.
 
+## 0.3 — Release lookup hotfix / Corrección de búsqueda
+
+The live GitHub release lookup has a 5-second deadline, including the response body. If unavailable, the installer uses an embedded, verified stable snapshot (BloomBox 3.6.0 / MediaBloom 2.4.0, checked 2026-11-26). The UI explicitly identifies backup use; it may be older than the latest release. Refresh the snapshot when publishing new stable versions.
+
+La búsqueda en GitHub tiene un límite de 5 segundos. Si falla, el instalador usa versiones estables verificadas de respaldo (BloomBox 3.6.0 y MediaBloom 2.4.0, consultadas el 26/11/2026). Se indica el uso del respaldo, que puede no ser la versión más reciente.
+
 ## Technical notes
 
 - Static HTML/CSS/JavaScript; no backend, analytics or credential form.
