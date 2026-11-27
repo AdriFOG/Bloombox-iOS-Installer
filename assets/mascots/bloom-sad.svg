@@ -1,0 +1,11 @@
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg" viewBox="175 162 888 888">
+
+
+<defs><linearGradient id="bloom-background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8a8290"/><stop offset="1" stop-color="#2a233b"/></linearGradient></defs>
+<rect x="175" y="162" width="888" height="888" rx="175" fill="url(#bloom-background)"/>
+<defs><linearGradient id="bloom-bloom0" x1="0.1" y1="0" x2="0.8" y2="1"><stop stop-color="#c6cbb8"/><stop offset="1" stop-color="#6e786a"/></linearGradient></defs><path fill="url(#bloom-bloom0)" d="M609 485 C544 508 483 511 449 452 C429 415 431 370 444 342 Q448 335 459 336 C534 330 597 382 607 443 Q612 465 609 485Z"/>
+<defs><linearGradient id="bloom-bloom1" x1="0.18" y1="0" x2="0.95" y2="0.95"><stop stop-color="#c1c7b6"/><stop offset="0.6" stop-color="#909888"/><stop offset="1" stop-color="#767f77"/></linearGradient></defs><path fill="url(#bloom-bloom1)" d="M590 464 C706 460 808 515 863 605 C896 660 911 736 892 792 C876 850 843 881 772 894 C714 904 612 905 545 898 C412 889 326 822 325 718 C324 611 429 470 590 464Z"/>
+<defs><linearGradient id="bloom-bloom2" x1="0.25" y1="0" x2="0.65" y2="1"><stop stop-color="#e5e5e5"/><stop offset="0.65" stop-color="#dcdcdd"/><stop offset="1" stop-color="#c5c3c7"/></linearGradient></defs><path fill="url(#bloom-bloom2)" d="M590 464 C666 463 721 484 753 519 C794 563 790 635 770 704 C741 803 665 879 545 898 C420 898 326 832 325 721 C322 611 432 470 590 464Z"/>
+<defs><linearGradient id="bloom-bloom3" x1="0.2" y1="0" x2="0.85" y2="1"><stop stop-color="#ccd1bf"/><stop offset="0.48" stop-color="#a5ad9a"/><stop offset="1" stop-color="#747e6f"/></linearGradient></defs><path fill="url(#bloom-bloom3)" d="M655 492 C659 421 710 359 775 337 C810 325 850 322 871 330 Q878 332 877 345 C880 426 825 485 764 501 C726 512 694 506 662 502 Q655 501 655 492Z"/><path fill="#6e786b" opacity=".22" d="M659 497 C717 438 799 384 875 358 C868 429 824 483 764 501 C722 512 684 505 659 497Z"/>
+<g fill="none" stroke="#131314" stroke-width="16" stroke-linecap="round"><path d="M446 665 Q481 691 511 653"/><path d="M554 653 Q583 690 621 670"/></g>
+</svg>
