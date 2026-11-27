@@ -75,6 +75,12 @@ The live GitHub release lookup has a 5-second deadline, including the response b
 
 La búsqueda en GitHub tiene un límite de 5 segundos. Si falla, el instalador usa versiones estables verificadas de respaldo (BloomBox 3.6.0 y MediaBloom 2.4.0, consultadas el 26/11/2026). Se indica el uso del respaldo, que puede no ser la versión más reciente.
 
+## Terms and privacy / Términos y privacidad
+
+The installer asks for explicit acceptance of [Terms of Use](TERMS.md) and acknowledgment of the [Privacy Notice](PRIVACY.md) before installation instructions. Version and date are saved locally; a new version requires renewed acceptance. Tutorial browsing remains available without acceptance. No credentials or acceptance records are sent to a project server.
+
+El instalador solicita aceptar los [Términos de uso](TERMS.md) y reconocer el [Aviso de privacidad](PRIVACY.md) antes de las instrucciones de instalación. La versión y fecha se guardan localmente; una nueva versión requiere otra aceptación. Los tutoriales pueden consultarse sin aceptar. No se envían credenciales ni registros de aceptación a un servidor del proyecto.
+
 ## Technical notes
 
 - Static HTML/CSS/JavaScript; no backend, analytics or credential form.
